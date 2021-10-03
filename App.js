@@ -58,6 +58,7 @@ export default function App() {
     </SafeAreaView>
   );
 }
+
 const styles = StyleSheet.create({
   screen: {
     flex: 1
